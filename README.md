@@ -22,7 +22,7 @@ Migration files are a "formal" way to define a database schema and to update it 
 
 ## Setup
 
-* Create a database called `migrations-seeds-practice`
+* Create a database called `migrations_seeds_practice`
 * Modify the `knexfile.js` to use this database
 
 ## Migrations & Seeds: Why do we need them?
